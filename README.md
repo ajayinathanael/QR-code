@@ -1,13 +1,12 @@
 # Frontend Mentor - QR code component solution
 
 ### Screenshot
-
-![](screenshot.png)
+screenshot.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/ajayinathanael/QR-code
+- Live Site URL: https://frontendqr-code.netlify.app/
 
 ### Built with
 
